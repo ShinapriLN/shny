@@ -1,0 +1,2 @@
+var boss = "This is boss?"
+write(boss)
