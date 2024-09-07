@@ -25,7 +25,8 @@ To run the interpreter, use the following command:
 ```
 Replace myscript.shny with the path to your .shny file.
 
-##Example Script
+## Example Script
+
 Create a .shny file with the following content:
 ```.shny
 var myVar = "Test variable"
