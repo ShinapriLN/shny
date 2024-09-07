@@ -21,7 +21,7 @@ This interpreter processes a custom scripting language with the `.shny` file ext
 To run the interpreter, use the following command:
 
 ```sh
-./shny_interpreter myscript.shny
+./shny myscript.shny
 ```
 Replace myscript.shny with the path to your .shny file.
 
